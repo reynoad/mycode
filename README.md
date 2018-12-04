@@ -1,4 +1,4 @@
-Version Control
+Learning Version Control
 
 # mycode (Project Title)
 

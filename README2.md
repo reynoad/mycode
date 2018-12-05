@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Learning Version Control
 
 # mycode (Project Title) this is a test
+=======
+# mycode
+Learning to track my code
+# mycode (Learning Python)
+>>>>>>> 9bbddef99f35f2c4ad85496daa03cac0b1ba49d2
 
 One Paragraph of your project description goes here. Describe what you're trying to do. What is the purpose of putting up this repo?
 
@@ -60,4 +66,8 @@ This project is licensed under the GNUv3 - see the [LICENSE.md](LICENSE.md) file
 
 * Hat tip to anyone who's code was used
 * Inspiration
+<<<<<<< HEAD
 * etc
+=======
+* etc
+>>>>>>> 9bbddef99f35f2c4ad85496daa03cac0b1ba49d2

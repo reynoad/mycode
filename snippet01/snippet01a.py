@@ -5,4 +5,5 @@ print( 'File Name:', file.name )
 print( 'File Open Mode:', file.mode )
 
 text = file.readlines()
-print("\n\n".join(text))
+
+print("\t"+"\t".join(text))
